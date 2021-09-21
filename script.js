@@ -4,15 +4,15 @@ const courses=[
         price:"9.75"
     },
     {
-        name:"Harshit Nigdikar",
+        name:"Demo 1",
         price:"9.80"
     },
     {
-        name:"Mihir Pesswani",
+        name:"Demo 2",
         price:"9.85"
     },
     {
-        name:"Cabin John",
+        name:"Demo 3",
         price:"8.75"
     }
 ];
